@@ -86,7 +86,7 @@
     "sites": [
         {
             "key": "t4public",
-            "name": "豆瓣T4",
+            "name": "🍀豆瓣┃T4",
             "type": 4,
             "api": "https://t4.abzo.xyz/vod",
             "searchable": 1,
@@ -95,7 +95,7 @@
         },
         {
             "key": "py_libvio",
-            "name": "🍲LIB(PY)",
+            "name": "🍲LIB┃PY",
             "type": 3,
             "api": "py_libvio",
             "searchable": 1,
@@ -141,7 +141,7 @@
         },
         {
             "key": "drpy_js_鸭奈飞",
-            "name": "影视 | 鸭奈飞[js]",
+            "name": "🦆鸭奈飞┃JS",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "jar": "./jar/js.jar;md5;a84fef826cb82da525469e8acf1e7d9a",
@@ -149,7 +149,7 @@
         },
         {
             "key": "drpy_js_荐片",
-            "name": "影视 | 荐片[js]",
+            "name": "🎈荐片┃JS",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "jar": "./jar/js.jar;md5;a84fef826cb82da525469e8acf1e7d9a",
@@ -157,7 +157,7 @@
         },
         {
             "key": "py_kunyu77",
-            "name": "🔥七七",
+            "name": " ☁七七┃PY",
             "type": 3,
             "api": "py_kunyu77",
             "searchable": 1,
@@ -368,7 +368,7 @@
         },
         {
             "key": "py_bilivd",
-            "name": "🔥B站视频",
+            "name": "🅱️视频┃B站",
             "type": 3,
             "api": "py_bilivd",
             "searchable": 1,
@@ -378,7 +378,7 @@
         },
         {
             "key": "py_bilimd",
-            "name": "🔥B站影视",
+            "name": "🅱️影视┃B站",
             "type": 3,
             "api": "py_bilimd",
             "searchable": 1,
