@@ -7,9 +7,9 @@ var rule = {
     class_name:'电视剧&电影&综艺&动漫',
     class_url:'lianxuju&dianying&zongyi&dongman',
    
-    searchable:2,//是否启用全局搜索,
-    quickSearch:0,//是否启用快速搜索,
-    filterable:0,//是否启用分类筛选,
+    searchable:1,//是否启用全局搜索,
+    quickSearch:1,//是否启用快速搜索,
+    filterable:1,//是否启用分类筛选,
     headers:{//网站的请求头,完整支持所有的,常带ua和cookies
         'User-Agent':'MOBILE_UA',
         // "Cookie": "searchneed=ok"
