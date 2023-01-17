@@ -144,7 +144,7 @@
             "name": "影视 | 鸭奈飞[js]",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "jar": "./jar/js.jar;md5;a84fef826cb82da525469e8acf1e7d9a"
+            "jar": "./jar/js.jar;md5;a84fef826cb82da525469e8acf1e7d9a",
             "ext": "./js/鸭奈飞.js"
         },
         {
@@ -152,7 +152,7 @@
             "name": "影视 | 荐片[js]",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "jar": "./jar/js.jar;md5;a84fef826cb82da525469e8acf1e7d9a"
+            "jar": "./jar/js.jar;md5;a84fef826cb82da525469e8acf1e7d9a",
             "ext": "./js/荐片.js"
         },
         {
