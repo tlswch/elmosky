@@ -98,8 +98,8 @@
             "name": "🍲LIB(PY)",
             "type": 3,
             "api": "py_libvio",
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "./py/libvio.py"
         },
@@ -144,6 +144,7 @@
             "name": "影视 | 鸭奈飞[js]",
             "type": 3,
             "api": "./lib/drpy2.min.js",
+            "jar": "./jar/js.jar;md5;a84fef826cb82da525469e8acf1e7d9a"
             "ext": "./js/鸭奈飞.js"
         },
         {
@@ -151,6 +152,7 @@
             "name": "影视 | 荐片[js]",
             "type": 3,
             "api": "./lib/drpy2.min.js",
+            "jar": "./jar/js.jar;md5;a84fef826cb82da525469e8acf1e7d9a"
             "ext": "./js/荐片.js"
         },
         {
@@ -158,8 +160,8 @@
             "name": "🔥七七",
             "type": 3,
             "api": "py_kunyu77",
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "./py/kunyu77.py"
         },
@@ -253,7 +255,7 @@
             "api": "csp_Ddrk",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 1
         },
         {
             "key": "csp_Lgyy",
