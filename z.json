@@ -153,7 +153,7 @@
             "key": "drpy_js_鸭奈飞",
             "name": "🦆鸭奈飞┃JS",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "./libs/drpy2.min.js",
             "jar": "./jar/js.jar;md5;a84fef826cb82da525469e8acf1e7d9a",
             "ext": "./js/鸭奈飞.js"
         },
@@ -161,7 +161,7 @@
             "key": "drpy_js_荐片",
             "name": "🎈荐片┃JS",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "./libs/drpy2.min.js",
             "jar": "./jar/js.jar;md5;a84fef826cb82da525469e8acf1e7d9a",
             "ext": "./js/荐片.js"
         },
