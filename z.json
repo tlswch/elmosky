@@ -98,7 +98,7 @@
             "key": "t4public",
             "name": "🍀豆瓣┃手机",
             "type": 4,
-            "api": "https://t4.xn--sss604efuw.ml/vod",
+            "api": "https://t4.abzo.xyz/vod",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
@@ -150,20 +150,20 @@
             "filterable": 1
         },
         {
-            "key": "drpy_js_鸭奈飞",
-            "name": "🦆鸭奈飞┃JS",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "jar": "./jar/js.jar;md5;a84fef826cb82da525469e8acf1e7d9a",
-            "ext": "./js/鸭奈飞.js"
-        },
-        {
             "key": "drpy_js_荐片",
             "name": "🎈荐片┃JS",
             "type": 3,
             "api": "./libs/drpy2.min.js",
             "jar": "./jar/js.jar;md5;a84fef826cb82da525469e8acf1e7d9a",
             "ext": "./js/荐片.js"
+        },
+        {
+            "key": "drpy_js_鸭奈飞",
+            "name": "🦆鸭奈飞┃JS",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "jar": "./jar/js.jar;md5;a84fef826cb82da525469e8acf1e7d9a",
+            "ext": "./js/鸭奈飞.js"
         },
         {
             "key": "py_kunyu77",
