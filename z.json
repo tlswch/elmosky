@@ -193,15 +193,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key":"csp_AppTT",
-            "name":"🐰图图┃SP",
+        },{
+            "key":"AppTT2",
+            "name":"🐰图图影视",
             "type":3,
-            "api":"csp_AppTT",
+            "api":"csp_AppTT2",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1
+            "filterable":1,
+            "ext":"http://124.248.66.89:7788"
         },
         {
             "key": "csp_BuLei",
@@ -239,6 +239,16 @@
             "quickSearch": 1,
             "filterable": 1
         },
+        {
+            "key":"csp_LiteApple",
+            "name":"🍎小苹果(ijk)",
+            "type":3,
+            "api":"csp_LiteApple",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "playerType":1
+        }
         {
             "key": "csp_apple",
             "name": "🍎苹果┃SP",
