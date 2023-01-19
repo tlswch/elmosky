@@ -5,7 +5,7 @@
         {
             "name": "直播",
             "type": 1,
-            "url": "./json/live.json",
+            "url": "https://agit.ai/elmosky/v1/raw/branch/main/json/live.json",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
             "logo": "http://epg.51zmt.top:8000/{logo}"
         }
