@@ -1,13 +1,17 @@
 {
     "spider": "./jar/xo.txt;md5;a5ec5bc531df9a9369b480df52b9d008",
     "wallpaper": "https://api.abzo.xyz/es/img.php",
-     "lives": [
+"lives": [
         {
-            "name": "直播",
-            "type": 1,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
-            "logo": "http://epg.51zmt.top:8000/{logo}"
+            "group": "redirect",
+            "channels": [
+                {
+                    "name": "live",
+                    "urls": [
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ="
+                    ]
+                }
+            ]
         }
     ],
     "sites": [
