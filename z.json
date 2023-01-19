@@ -1,14 +1,14 @@
 {
     "spider": "./jar/xo.txt;md5;a5ec5bc531df9a9369b480df52b9d008",
     "wallpaper": "https://api.abzo.xyz/es/img.php",
-"lives": [
+    "lives": [
         {
             "group": "redirect",
             "channels": [
                 {
                     "name": "live",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ="
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2VsbW9za3kvdjEvcmF3L2JyYW5jaC9tYWluL2pzb24vbGl2ZS5qc29u"
                     ]
                 }
             ]
