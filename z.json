@@ -1,24 +1,13 @@
 {
     "spider": "./jar/xo.txt;md5;a5ec5bc531df9a9369b480df52b9d008",
     "wallpaper": "https://api.abzo.xyz/es/img.php",
-    "lives": [
+     "lives": [
         {
             "name": "直播",
-            "type": 0,
-            "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        },
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="
-                    ]
-                }
-            ],
-            "epg": "http://epg.51zmt.top:8000/api/diyp/"
+            "type": 1,
+            "url": "./json/live.json",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
+            "logo": "http://epg.51zmt.top:8000/{logo}"
         }
     ],
     "rules": [
