@@ -59,6 +59,11 @@
     {
       "name": "DISK",
       "server": "http://124.222.140.243:8080"
+    },
+    {
+      "name": "ayszz",
+      "server": "https://alist.abzo.xyz/ali"
     }
+    
   ]
 }
