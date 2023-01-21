@@ -136,20 +136,71 @@
             "filterable": 1
         },
         {
-            "key": "AppTT2",
-            "name": "🐰图图影视",
-            "type": 3,
-            "api": "csp_AppTT2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://124.248.66.89:7788"
+            "key": "AppTT",
+            "name": "🐰图图┃SP",
+            "type": "3",
+            "api": "csp_Dora",
+            "playerType": 2,
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "110c922de7d69804467fb83d3bb664b5"
         },
         {
             "key": "csp_BuLei",
             "name": "💢布雷┃SP",
             "type": 3,
             "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Tian",
+            "name": "🗽天天┃SP",
+            "type": "3",
+            "api": "csp_Dora",
+            "playerType": 2,
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "bdc1c75081e5e477189a463baa47e392"
+        },
+        {
+            "key": "csp_Vofl",
+            "name": "🎈Voflix┃SP",
+            "type": 3,
+            "api": "csp_Voflix",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Bttoo",
+            "name": "✌BTtwo┃SP",
+            "type": 3,
+            "api": "csp_Bttoo",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Cokemv",
+            "name": "📕可乐┃SP",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Nkdy",
+            "name": "👓耐看┃SP",
+            "type": 3,
+            "api": "csp_Nkdy",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -211,7 +262,7 @@
         },
         {
             "key": "csp_Lgyy",
-            "name": "🌀Voflix┃SP",
+            "name": "🌀蓝光┃SP",
             "type": 3,
             "api": "csp_Lgyy",
             "searchable": 1,
@@ -254,6 +305,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "AppTT2",
+            "name": "🐰兔兔┃SP",
+            "type": 3,
+            "api": "csp_AppTT2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://124.248.66.89:7788"
         },
         {
             "key": "csp_Lezhu",
@@ -532,6 +593,121 @@
             "name": "rx2",
             "type": 1,
             "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
+        },
+        {
+            "name": "解析1",
+            "type": 1,
+            "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "解析2",
+            "type": 1,
+            "url": "https://parse.ikunfk.cc/parse/sign/20230117?url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "解析3",
+            "type": 1,
+            "url": "http://pandown.pro/app/ysmjx.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "解析4",
+            "type": 1,
+            "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
+        },
+        {
+            "name": "解析5",
+            "type": 0,
+            "url": "https://tljiaqing.nde.tw/m3u8/?url="
+        },
+        {
+            "name": "解析6",
+            "type": 1,
+            "url": "http://45.248.10.163:4433/json.php?wap=0&url="
+        },
+        {
+            "name": "解析7",
+            "type": 0,
+            "url": "https://h5.freejson.xyz/player/?url="
+        },
+        {
+            "name": "解析8",
+            "type": 1,
+            "url": "http://lanlan.ckflv.cn/?url=",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "qq",
+                    "letv",
+                    "sohu",
+                    "youku",
+                    "mgtv",
+                    "bilibili",
+                    "wasu",
+                    "xigua",
+                    "1905"
+                ]
+            }
+        },
+        {
+            "name": "解析9",
+            "type": 1,
+            "url": "https://www.1920lgzy.top/json.php?url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "Mozilla/5.0"
+                }
+            }
+        },
+        {
+            "name": "解析10",
+            "type": 1,
+            "url": "https://hc.izny.cn/json.php?url="
+        },
+        {
+            "name": "解析11",
+            "type": 1,
+            "url": "https://www.nxflv.com/?url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "解析12",
+            "type": 1,
+            "url": "http://3.37.195.161:54371/parse/api/无名.js?url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
         }
     ],
     "flags": [
