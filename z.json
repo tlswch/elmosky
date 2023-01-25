@@ -81,12 +81,32 @@
             "filterable": 1
         },
         {
+            "key": "Hei19",
+            "name": "石榴",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "3bff500c8b1e06c052a1b0f1f7a62b45"
+        },
+        {
             "key": "drpy_js_荐片",
             "name": "🎈荐片┃JS",
             "type": 3,
             "api": "./libs/drpy2.min.js",
             "jar": "./jar/js.jar;md5;a84fef826cb82da525469e8acf1e7d9a",
             "ext": "./js/荐片.js"
+        },
+        {
+            "key": "Yanet",
+            "name": "鸭奶飞",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "a369b1f623fe86605f1b029f0cf66349"
         },
         {
             "key": "drpy_js_鸭奈飞",
