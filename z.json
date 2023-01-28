@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/230129.txt;md5;336e15df2d429742e3f7ac06ba0752c9",
+    "spider": "./jar/230129.jar;md5;7752af3c1172ecb63c2d077fd017d0c3",
     "wallpaper": "https://api.abzo.xyz/es/img.php",
     "lives": [
         {
@@ -354,6 +354,15 @@
             "name": "🐷乐猪┃SP",
             "type": 3,
             "api": "csp_Lezhu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_555",
+            "name": "5️⃣️555┃SP",
+            "type": 3,
+            "api": "csp_Dy555",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
