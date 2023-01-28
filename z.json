@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/230121.jar;md5;dce4a45660b1e61b6f02113cbab13e16",
+    "spider": "./jar/230129.txt;md5;336e15df2d429742e3f7ac06ba0752c9",
     "wallpaper": "https://api.abzo.xyz/es/img.php",
     "lives": [
         {
@@ -55,7 +55,7 @@
         },
         {
             "key": "teng",
-            "name": "🐧小腾┃SP",
+            "name": "🐧腾腾┃SP",
             "type": 3,
             "api": "csp_QQ",
             "searchable": 1,
@@ -67,8 +67,8 @@
             "name": "🐨爱奇┃SP",
             "type": 3,
             "api": "csp_IQIYI",
-            "searchable": 1,
             "quickSearch": 1,
+            "searchable": 1,
             "filterable": 1
         },
         {
@@ -117,16 +117,6 @@
             "ext": "./json/alist.json"
         },
         {
-            "key": "csp_Paper",
-            "name": "📜纸条┃云盘",
-            "type": 3,
-            "api": "csp_Paper",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://alitoken.ayszz.repl.co/token.txt"
-        },
-        {
             "key": "csp_kuaikan",
             "name": "👀快看┃SP",
             "type": 3,
@@ -140,27 +130,16 @@
             "name": "🐰图图┃SP",
             "type": "3",
             "api": "csp_Dora",
-            "playerType": 2,
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
             "ext": "110c922de7d69804467fb83d3bb664b5"
         },
         {
-            "key": "csp_BuLei",
-            "name": "💢布雷┃SP",
-            "type": 3,
-            "api": "csp_BuLei",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Tian",
             "name": "🗽天天┃SP",
             "type": "3",
             "api": "csp_Dora",
-            "playerType": 2,
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
@@ -171,36 +150,6 @@
             "name": "🎈Voflix┃SP",
             "type": 3,
             "api": "csp_Voflix",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Bttoo",
-            "name": "✌BTtwo┃SP",
-            "type": 3,
-            "api": "csp_Bttoo",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Cokemv",
-            "name": "📕可乐┃SP",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Nkdy",
-            "name": "👓耐看┃SP",
-            "type": 3,
-            "api": "csp_Nkdy",
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -233,14 +182,52 @@
             "filterable": 1
         },
         {
-            "key": "csp_LiteApple",
-            "name": "🍎小苹果┃SP",
+            "key": "csp_Paper",
+            "name": "📜纸条┃云盘",
             "type": 3,
-            "api": "csp_LiteApple",
+            "api": "csp_Paper",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "playerType": 1
+            "ext": "https://alitoken.ayszz.repl.co/token.txt"
+        },
+        {
+            "key": "csp_apple",
+            "name": "🍎苹果┃SP",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Bttoo",
+            "name": "✌BTtwo┃SP",
+            "type": 3,
+            "api": "csp_Bttoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Cokemv",
+            "name": "📕可乐┃SP",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_zxzj",
+            "name": "📗在线┃SP",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_Dy1010",
@@ -258,6 +245,15 @@
             "api": "csp_Ddrk",
             "searchable": 1,
             "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "csp_Nkdy",
+            "name": "👓耐看┃SP",
+            "type": 3,
+            "api": "csp_Nkdy",
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1
         },
         {
@@ -265,6 +261,15 @@
             "name": "🌀蓝光┃SP",
             "type": 3,
             "api": "csp_Lgyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Auete",
+            "name": "🏝Aue┃SP",
+            "type": 3,
+            "api": "csp_Auete",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -283,6 +288,7 @@
             "name": "💥bidi┃SP",
             "type": 3,
             "api": "csp_Bdys01",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -298,10 +304,28 @@
             "ext": "./json/nmys.json"
         },
         {
-            "key": "csp_zxzj",
-            "name": "📗在线┃SP",
+            "key": "csp_Ysgc",
+            "name": "🏭工厂┃SP",
             "type": 3,
-            "api": "csp_Zxzj",
+            "api": "csp_Ysgc",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_SP2345",
+            "name": "💦2345┃SP",
+            "type": 3,
+            "api": "csp_SP2345",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Lib",
+            "name": "🎉Lib┃SP",
+            "type": 3,
+            "api": "csp_Lib",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
