@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/230129.jar;md5;7752af3c1172ecb63c2d077fd017d0c3",
+    "spider": "./jar/230130.jar;md5;4bd2275690262e2b338920201a674539",
     "wallpaper": "https://api.abzo.xyz/es/img.php",
     "lives": [
         {
@@ -126,14 +126,23 @@
             "filterable": 1
         },
         {
-            "key": "AppTT",
+            "key": "csp_AppTT",
             "name": "🐰图图┃SP",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "110c922de7d69804467fb83d3bb664b5"
+            "type": 3,
+            "api": "csp_AppTT2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="
+        },
+        {
+            "key": "csp_BuLei",
+            "name": "💢布雷┃SP",
+            "type": 3,
+            "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "Tian",
@@ -340,14 +349,14 @@
             "filterable": 1
         },
         {
-            "key": "AppTT2",
+            "key": "AppTT",
             "name": "🐰兔兔┃SP",
-            "type": 3,
-            "api": "csp_AppTT2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://124.248.66.89:7788"
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "110c922de7d69804467fb83d3bb664b5"
         },
         {
             "key": "csp_Lezhu",
@@ -395,8 +404,17 @@
             "filterable": 1
         },
         {
+            "key": "csp_Anime1",
+            "name": "🐾日本动漫┃SP",
+            "type": 3,
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_If101",
-            "name": "🛫 If101┃墙外",
+            "name": "🛫If101┃墙外",
             "type": 3,
             "api": "csp_If101",
             "searchable": 1,
