@@ -88,36 +88,23 @@
             "jar": "./jar/js.jar;md5;a84fef826cb82da525469e8acf1e7d9a",
             "ext": "./js/荐片.js"
         },
+    {
+      "key": "drpy_js_看视界",
+      "name": "🎉看视界🎉",
+      "type": 3,
+      "api": "https://agit.ai/elmosky/apps/raw/branch/main/js/yingmo.js",
+      "ext": "https://agit.ai/elmosky/apps/raw/branch/main/js/ksj.js"
+    },
         {
-		"key": "py_3qu",
-		"name": "3QU",
-		"type": 3,
-		"api": "py_3qu",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "./py/py_3qu.py"
-	    },
-        {
-		"key": "py_cctv",
-		"name": "央视",
-		"type": 3,
-		"api": "py_cctv",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "./py/py_cctv.py"
-	    },
-        {
-		"key": "py_cctv_full",
-		"name": "央视大全",
-		"type": 3,
-		"api": "py_cctv_full",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "./py/py_cctv_full.py"
-	    },
+            "key": "csp_XYQ_lu1",
+            "name": "️🖥️电视直播",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/elmosky/apps/raw/branch/main/json/ningmeng.json"
+        },
         {
             "key": "py_kunyu77",
             "name": " ☁七七┃PY",
