@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/230130.jar;md5;4bd2275690262e2b338920201a674539",
+    "spider": "./jar/230205.jar;md5;59e72aace81382dcce86b9b73998aa7f",
     "wallpaper": "https://api.abzo.xyz/es/img.php",
     "lives": [
         {
@@ -45,47 +45,21 @@
             "ext": "./py/py_libvio.py"
         },
         {
-            "key": "csp_SP360",
-            "name": "📺360┃SP",
+            "key": "csp_XYQ_lu1",
+            "name": "🅱电视┃直播",
             "type": 3,
-            "api": "csp_SP360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "teng",
-            "name": "🐧腾腾┃SP",
-            "type": 3,
-            "api": "csp_QQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "ai",
-            "name": "🐨爱奇┃SP",
-            "type": 3,
-            "api": "csp_IQIYI",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 1
-        },
-        {
-            "key": "MGT",
-            "name": "🍋芒果┃SP",
-            "type": 3,
-            "api": "csp_Mgtv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "api": "csp_XYQHiker",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./XYQ/央视直播.json"
         },
         {
             "key": "drpy_js_荐片",
             "name": "🎈荐片┃JS",
             "type": 3,
             "api": "./libs/drpy2.min.js",
-            "jar": "./jar/js.jar;md5;a84fef826cb82da525469e8acf1e7d9a",
+            "jar": "./jar/230206js.jar;md5;e5b681f675bb3bde7f94196f60235829",
             "ext": "./js/荐片.js"
         },
         {
@@ -107,6 +81,26 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "./json/alist.json"
+        },
+        {
+            "key": "csp_Paper",
+            "name": "📜纸条┃4K",
+            "type": 3,
+            "api": "csp_Paper",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://alitoken.ayszz.repl.co/token.txt"
+        },
+        {
+            "key": "Zhaozy",
+            "name": "🐺找资源┃搜4K",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://alitoken.ayszz.repl.co/token.txt"
         },
         {
             "key": "csp_kuaikan",
@@ -178,19 +172,10 @@
             "name": "📔厂长┃SP",
             "type": 3,
             "api": "csp_Czsapp",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_Paper",
-            "name": "📜纸条┃云盘",
-            "type": 3,
-            "api": "csp_Paper",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://alitoken.ayszz.repl.co/token.txt"
         },
         {
             "key": "csp_apple",
@@ -198,15 +183,6 @@
             "type": 3,
             "api": "csp_LiteApple",
             "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Bttoo",
-            "name": "✌BTtwo┃SP",
-            "type": 3,
-            "api": "csp_Bttoo",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -221,11 +197,38 @@
             "filterable": 1
         },
         {
+            "key": "csp_DiDuan",
+            "name": "⏮️低端┃SP",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
             "key": "csp_Cokemv",
             "name": "📕可乐┃SP",
             "type": 3,
             "api": "csp_Cokemv",
             "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Auete",
+            "name": "🏝Aue┃SP",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Bttoo",
+            "name": "✌BTtwo┃SP",
+            "type": 3,
+            "api": "csp_Bttoo",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -249,37 +252,10 @@
             "filterable": 1
         },
         {
-            "key": "csp_DiDuan",
-            "name": "⏮️低端┃SP",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "csp_Nkdy",
-            "name": "👓耐看┃SP",
-            "type": 3,
-            "api": "csp_Nkdy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Lgyy",
             "name": "🌀蓝光┃SP",
             "type": 3,
             "api": "csp_Lgyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Auete",
-            "name": "🏝Aue┃SP",
-            "type": 3,
-            "api": "csp_Auete",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -332,6 +308,42 @@
             "filterable": 1
         },
         {
+            "key": "csp_SP360",
+            "name": "📺360┃SP",
+            "type": 3,
+            "api": "csp_SP360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "teng",
+            "name": "🐧腾腾┃SP",
+            "type": 3,
+            "api": "csp_QQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "ai",
+            "name": "🐨爱奇┃SP",
+            "type": 3,
+            "api": "csp_IQIYI",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "MGT",
+            "name": "🍋芒果┃SP",
+            "type": 3,
+            "api": "csp_Mgtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_Lib",
             "name": "🎉Lib┃SP",
             "type": 3,
@@ -349,6 +361,15 @@
             "quickSearch": "1",
             "filterable": "1",
             "ext": "110c922de7d69804467fb83d3bb664b5"
+        },
+        {
+            "key": "csp_Nkdy",
+            "name": "👓耐看┃SP",
+            "type": 3,
+            "api": "csp_Nkdy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_Lezhu",
@@ -405,6 +426,117 @@
             "filterable": 1
         },
         {
+            "key": "csp_xBPQ_kg",
+            "name": "🐶酷狗MV",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "playerType": 1,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./xBPQ/酷狗MV.json"
+        },
+        {
+            "key": "csp_XYQBiu_酷奇",
+            "name": "🎤酷奇MV",
+            "type": 3,
+            "api": "csp_XYQBiu",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./XYQ/酷奇MV.json"
+        },
+        {
+            "key": "YiSo",
+            "name": "😹易搜┃搜4K",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://alitoken.ayszz.repl.co/token.txt"
+        },
+        {
+            "key": "PanSou",
+            "name": "🦊盘搜┃搜4K",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://alitoken.ayszz.repl.co/token.txt"
+        },
+        {
+            "key": "UpYun",
+            "name": "😻Up搜┃搜4K",
+            "type": 3,
+            "api": "csp_UpYun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://alitoken.ayszz.repl.co/token.txt"
+        },
+        {
+            "key": "push_agent",
+            "name": "🛴手机┃推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://alitoken.ayszz.repl.co/token.txt"
+        },
+        {
+            "key": "csp_XYQH外剧",
+            "name": "️🌸外剧┃XH",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQ/外剧.json"
+        },
+        {
+            "key": "csp_XYQH野马",
+            "name": "️🌸野马┃XH",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQ/野马.json"
+        },
+        {
+            "key": "csp_XYQH追兔",
+            "name": "🌸追兔┃XH",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQ/追兔.json"
+        },
+        {
+            "key": "csp_xBPQ_爱看",
+            "name": "🌸爱看┃XB",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./xBPQ/爱看.json"
+        },
+        {
+            "key": "csp_xBPQ_莫扎兔",
+            "name": "🌸莫扎兔┃XB",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./xBPQ/莫扎兔.json"
+        },
+        {
             "key": "csp_If101",
             "name": "🛫If101┃墙外",
             "type": 3,
@@ -432,74 +564,54 @@
             "filterable": 1
         },
         {
-            "key": "py_bilivd",
-            "name": "🅱️视频┃B站",
+            "key": "dr_兔小贝",
+            "name": "📚儿童启蒙",
             "type": 3,
-            "api": "py_bilivd",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./py/py_bilivd.py"
-        },
-        {
-            "key": "py_bilimd",
-            "name": "🅱️影视┃B站",
-            "type": 3,
-            "api": "py_bilimd",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./py/py_bilimd.py"
-        },
-        {
-            "key": "YiSo",
-            "name": "😹易搜┃搜索",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://alitoken.ayszz.repl.co/token.txt"
-        },
-        {
-            "key": "PanSou",
-            "name": "🦊盘搜┃搜索",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://alitoken.ayszz.repl.co/token.txt"
-        },
-        {
-            "key": "UpYun",
-            "name": "😻Up搜┃搜索",
-            "type": 3,
-            "api": "csp_Upyunso",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://alitoken.ayszz.repl.co/token.txt"
-        },
-        {
-            "key": "Zhaozy",
-            "name": "🐺找资源┃搜索",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://alitoken.ayszz.repl.co/token.txt"
-        },
-        {
-            "key": "push_agent",
-            "name": "🛴手机┃推送",
-            "type": 3,
-            "api": "csp_Push",
+            "api": "./libs/drpy.min.js",
+            "ext": "./js/兔小贝.js",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://alitoken.ayszz.repl.co/token.txt"
+            "filterable": 0
+        },
+        {
+            "key": "少儿教育",
+            "name": "📚少儿教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/少儿教育.json"
+        },
+        {
+            "key": "小学课堂",
+            "name": "📚小学课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/小学课堂.json"
+        },
+        {
+            "key": "初中课堂",
+            "name": "📚初中课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/初中课堂.json"
+        },
+        {
+            "key": "高中教育",
+            "name": "📚高中课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/高中课堂.json"
         }
     ],
     "parses": [
