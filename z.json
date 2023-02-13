@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/230212.txt;md5;c9001298ad1ca17aeffdb48c6c458537",
+    "spider": "./jar/230213.txt;md5;8b48f5eae06eb368f8cdf3d225cc5dd9",
     "wallpaper": "https://api.abzo.xyz/es/img.php",
     "lives": [
         {
@@ -277,6 +277,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_Lib",
+            "name": "🌟Lib┃SP",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://libvio.me"
         },
         {
             "key": "csp_zxzj",
@@ -850,8 +860,8 @@
         "renrenmi",
         "xmm",
         "xigua",
-        "m1905 ",
-        "funshion ",
+        "m1905",
+        "funshion",
         "优酷",
         "芒果",
         "腾讯",
