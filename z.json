@@ -43,16 +43,15 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./py/py_libvio.py"
-        },
+        }, 
         {
-            "key": "csp_XYQ_lu1",
-            "name": "🅱电视┃直播",
-            "type": 3,
-            "api": "csp_XYQHiker",
+            "key": "T4直播转点播",
+            "name": "📺︎电视┃直播",
+            "type": 4,
+            "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./XYQ/电视直播.json"
+            "filterable": 1
         },
         {
             "key": "drpy_js_荐片",
@@ -288,6 +287,16 @@
             "filterable": 1,
             "ext": "https://libvio.me"
         },
+        {
+             "key": "csp_xp_libv",
+             "name": "🍲LIB┃XP",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/LIBVIO.json"
+        },	
         {
             "key": "csp_zxzj",
             "name": "📗在线┃SP",
