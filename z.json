@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/230213.jar;md5;92a58defedc77459ca0139972fb05754",
+    "spider": "./jar/230214.jar;md5;bfa188ec90a8b671eebebd28adf4620c",
     "wallpaper": "https://api.abzo.xyz/es/img.php",
     "lives": [
         {
@@ -91,17 +91,6 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "https://alitoken.ayszz.repl.co/token.txt"
-        },
-        {
-            "key": "Zhaozy",
-            "name": "🐺找资源┃搜4K",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "https://alitoken.ayszz.repl.co/token.txt$$$xxooo$$$qq112233"
         },
         {
             "key": "csp_kuaikan",
@@ -460,6 +449,17 @@
             "ext": "./XYQ/酷奇MV.json"
         },
         {
+            "key": "Zhaozy",
+            "name": "🐺找资源┃搜4K",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "https://alitoken.ayszz.repl.co/token.txt$$$elmosky$$$es0820"
+        },
+        {
             "key": "YiSo",
             "name": "😹易搜┃搜4K",
             "type": 3,
@@ -523,6 +523,16 @@
             "ext": "./XYQ/野马.json"
         },
         {
+            "key": "csp_XYQH極客",
+            "name": "️🌸極客┃XH",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQ/極客.json"
+        },
+        {
             "key": "csp_xBPQ_爱看",
             "name": "🌸爱看┃XB",
             "type": 3,
@@ -563,7 +573,7 @@
             "key": "dr_兔小贝",
             "name": "📚儿童启蒙",
             "type": 3,
-            "api": "https://ftyyy.tk/JS/lib/drpy.min.js",
+            "api": "./libs/drpy.min.js",
             "ext": "./js/兔小贝.js",
             "searchable": 0,
             "quickSearch": 0,
