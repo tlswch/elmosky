@@ -58,7 +58,8 @@
             "name": "🎈荐片┃盒子",
             "type": 3,
             "api": "./libs/drpy2.min.js",
-            "jar": "./jar/230206js.jar;md5;e5b681f675bb3bde7f94196f60235829",
+            "jar": "./jar/230214js.jar;md5;53f624d989f535c8ecb9eb4fa6e19322",
+            "changeable": 0,
             "ext": "./js/荐片.js"
         },
         {
