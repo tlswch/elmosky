@@ -48,7 +48,7 @@
             "key": "T4直播转点播",
             "name": "📺︎电视┃直播",
             "type": 4,
-            "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
+            "api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naC1wcm94eS5jb20vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9mYW5taW5nbWluZy9saXZlL21haW4vdHYvbTN1L2dsb2JhbC5tM3U=",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
@@ -612,24 +612,24 @@
     ],
     "parses": [
         {
-            "name": "Json聚合",
+            "name": "1聚合",
             "type": 3,
             "url": "Demo"
         },
         {
-            "name": "Web聚合",
+            "name": "0聚合",
             "type": 3,
             "url": "Web"
         },
         {
             "name": "解析1",
             "type": 1,
-            "url": "https://jiexi.parses.repl.co/api.php?url="
+            "url": "http://api.ckflv.cn/?url="
         },
         {
             "name": "解析2",
             "type": 1,
-            "url": "https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url=",
+            "url": "https://json.xn--9kq078cdn3a.cc/api/?key=e7096101128070c1ce09bbf3887e5279&url=",
             "header": {
                 "User-Agent": "Mozilla/5.0"
             }
@@ -637,30 +637,9 @@
         {
             "name": "解析3",
             "type": 1,
-            "url": "http://pandown.pro/app/ysmjx.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
+            "url": "http://http://pandown.pro/app/kxjx.php?url=",
+            "header": {
+                "User-Agent": "okhttp/4.1.0"
             }
         },
         {
@@ -681,81 +660,27 @@
         {
             "name": "解析7",
             "type": 0,
-            "url": "https://jx.bozrc.com:4433/player/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
+            "url": "https://rx.bt5v.com/json/jsonindex.php/?url="
         },
         {
             "name": "解析8",
             "type": 1,
             "url": "http://newjiexi.gotka.top/keyu3.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
+            "header": {
+                "User-Agent": "okhttp/4.1.0"
             }
         },
         {
             "name": "解析9",
             "type": 1,
-            "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
+            "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url="
         },
         {
             "name": "解析10",
             "type": 1,
-            "url": "http://lanlan.ckflv.cn/?url=",
-            "ext": {
-                "flag": [
-                    "qiyi",
-                    "qq",
-                    "letv",
-                    "sohu",
-                    "youku",
-                    "mgtv",
-                    "bilibili",
-                    "wasu",
-                    "xigua",
-                    "1905"
-                ]
+            "url": "http://pandown.pro/app/ysmjx.php?url=",
+            "header": {
+                "User-Agent": "Dart/2.14(dart:io)"
             }
         },
         {
