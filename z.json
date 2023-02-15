@@ -787,7 +787,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "http://ftyyy.tk/json/tvlist.txt",
+            "url": "./json/live.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],
