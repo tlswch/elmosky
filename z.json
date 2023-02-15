@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/230214.jar;md5;bfa188ec90a8b671eebebd28adf4620c",
+    "spider": "./jar/230215.jar;md5;5ca5ccf2ed3fd7a80cb9eab4857ad2cf",
     "wallpaper": "https://api.abzo.xyz/es/img.php",
     "lives": [
         {
@@ -43,12 +43,12 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./py/py_libvio.py"
-        }, 
+        },
         {
             "key": "T4直播转点播",
             "name": "📺︎电视┃直播",
             "type": 4,
-            "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
+            "api": "http://120.53.102.254/live?url=aHR0cDovL2Z0eXl5LnRrL2pzb24vdHZsaXN0LnR4dA==",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
@@ -213,6 +213,16 @@
             "filterable": 1
         },
         {
+            "key": "csp_Slsp",
+            "name": "🍅石榴┃SP",
+            "type": 3,
+            "api": "csp_Slsp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cdn.饭太硬.ga/x/json/石榴.json"
+        },
+        {
             "key": "csp_77",
             "name": "👒七七┃SP",
             "type": 3,
@@ -278,15 +288,15 @@
             "ext": "https://libvio.me"
         },
         {
-             "key": "csp_xp_libv",
-             "name": "🍲LIB┃XP",
+            "key": "csp_xp_libv",
+            "name": "🍲LIB┃XP",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/LIBVIO.json"
-        },	
+        },
         {
             "key": "csp_zxzj",
             "name": "📗在线┃SP",
@@ -317,7 +327,7 @@
         },
         {
             "key": "csp_Bd",
-            "name": "💥bidi┃SP",
+            "name": "💥哔嘀┃SP",
             "type": 3,
             "api": "csp_Bdys01",
             "playerType": 1,
@@ -367,7 +377,7 @@
         },
         {
             "key": "ai",
-            "name": "🐨爱爱┃SP",
+            "name": "🥝爱爱┃SP",
             "type": 3,
             "api": "csp_IQIYI",
             "quickSearch": 1,
@@ -438,16 +448,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_XYQBiu_酷奇",
-            "name": "🎤酷奇 MV",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./XYQ/酷奇MV.json"
         },
         {
             "key": "Zhaozy",
@@ -783,6 +783,14 @@
             ]
         }
     ],
+    "lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "url": "http://ftyyy.tk/json/tvlist.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        }
+    ],
     "flags": [
         "youku",
         "qq",
@@ -805,8 +813,8 @@
         "renrenmi",
         "xmm",
         "xigua",
-        "m1905",
-        "funshion",
+        "m1905 ",
+        "funshion ",
         "优酷",
         "芒果",
         "腾讯",
