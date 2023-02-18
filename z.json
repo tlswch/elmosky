@@ -1,19 +1,6 @@
 {
-    "spider": "./jar/230215.jar;md5;5ca5ccf2ed3fd7a80cb9eab4857ad2cf",
+    "spider": "./jar/230218.jar;md5;f3687d6e511a73caf72f4757a04518b2",
     "wallpaper": "https://api.abzo.xyz/es/img.php",
-    "lives": [
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2VsbW9za3kvdjEvcmF3L2JyYW5jaC9tYWluL2pzb24vbGl2ZS50eHQ="
-                    ]
-                }
-            ]
-        }
-    ],
     "sites": [
         {
             "key": "js豆瓣",
@@ -94,6 +81,17 @@
             "ext": "https://alitoken.ayszz.repl.co/token.txt"
         },
         {
+            "key": "YiSo",
+            "name": "😹易搜┃搜4K",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "https://alitoken.ayszz.repl.co/token.txt"
+        },
+        {
             "key": "csp_kuaikan",
             "name": "👀快看┃SP",
             "type": 3,
@@ -117,11 +115,11 @@
             "key": "csp_AppTT",
             "name": "🐰图图┃SP",
             "type": 3,
-            "api": "csp_AppTT2",
+            "api": "csp_AppTT",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
+            "ext": "http://103.239.101.244:6677/$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
         },
         {
             "key": "csp_BuLei",
@@ -220,7 +218,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://cdn.饭太硬.ga/x/json/石榴.json"
+            "ext": "./json/石榴.json"
         },
         {
             "key": "csp_77",
@@ -450,6 +448,16 @@
             "filterable": 1
         },
         {
+            "key": "csp_XYQBiu_酷奇",
+            "name": "🎤酷奇MV",
+            "type": 3,
+            "api": "csp_XYQBiu",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./XYQ/酷奇MV.json"
+        },
+        {
             "key": "Zhaozy",
             "name": "🐺找资源┃搜4K",
             "type": 3,
@@ -459,17 +467,6 @@
             "filterable": 0,
             "changeable": 0,
             "ext": "https://alitoken.ayszz.repl.co/token.txt$$$elmosky$$$es0820"
-        },
-        {
-            "key": "YiSo",
-            "name": "😹易搜┃搜4K",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "https://alitoken.ayszz.repl.co/token.txt"
         },
         {
             "key": "PanSou",
@@ -541,11 +538,11 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./xBPQ/爱看.json"
+            "ext": "./xbpq/爱看.json"
         },
         {
             "key": "csp_If101",
-            "name": "🛫 If101┃墙外",
+            "name": "🛫If101┃墙外",
             "type": 3,
             "api": "csp_If101",
             "searchable": 1,
@@ -623,35 +620,29 @@
     ],
     "parses": [
         {
-            "name": "1聚合",
+            "name": "聚合1",
             "type": 3,
             "url": "Demo"
         },
         {
-            "name": "0聚合",
+            "name": "聚合0",
             "type": 3,
             "url": "Web"
         },
         {
             "name": "解析1",
             "type": 1,
-            "url": "http://api.ckflv.cn/?url="
+            "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url="
         },
         {
             "name": "解析2",
             "type": 1,
-            "url": "https://json.xn--9kq078cdn3a.cc/api/?key=e7096101128070c1ce09bbf3887e5279&url=",
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            }
+            "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v="
         },
         {
             "name": "解析3",
             "type": 1,
-            "url": "http://http://pandown.pro/app/kxjx.php?url=",
-            "header": {
-                "User-Agent": "okhttp/4.1.0"
-            }
+            "url": "https://jx.ccabc.cc/byg/?url="
         },
         {
             "name": "解析4",
@@ -660,21 +651,16 @@
         },
         {
             "name": "解析5",
-            "type": 0,
-            "url": "https://tljiaqing.nde.tw/m3u8/?url="
-        },
-        {
-            "name": "解析6",
             "type": 1,
             "url": "http://45.248.10.163:4433/json.php?wap=0&url="
         },
         {
-            "name": "解析7",
+            "name": "解析6",
             "type": 0,
-            "url": "https://rx.bt5v.com/json/jsonindex.php/?url="
+            "url": "https://jx.777jiexi.com/player/?url="
         },
         {
-            "name": "解析8",
+            "name": "解析7",
             "type": 1,
             "url": "http://newjiexi.gotka.top/keyu3.php?url=",
             "header": {
@@ -682,40 +668,37 @@
             }
         },
         {
-            "name": "解析9",
+            "name": "解析8",
             "type": 1,
             "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url="
         },
         {
+            "name": "解析9",
+            "type": 0,
+            "url": "https://jx.bozrc.com:4433/player/?url="
+        },
+        {
             "name": "解析10",
-            "type": 1,
-            "url": "http://pandown.pro/app/ysmjx.php?url=",
-            "header": {
-                "User-Agent": "Dart/2.14(dart:io)"
-            }
+            "type": 0,
+            "url": "http://www.miaoys.cc/vip/?url="
         },
         {
             "name": "解析11",
             "type": 1,
-            "url": "https://www.1920lgzy.top/json.php?url=",
+            "url": "http://lanlan.ckflv.cn/?url=",
             "ext": {
                 "header": {
-                    "User-Agent": "Mozilla/5.0"
+                    "User-Agent": "Dart/2.14(dart:io)"
                 }
             }
         },
         {
             "name": "解析12",
             "type": 1,
-            "url": "https://hc.izny.cn/json.php?url="
+            "url": "http://newjiexi.gotka.top/keyu3.php?url="
         },
         {
             "name": "解析13",
-            "type": 1,
-            "url": "https://rx.bt5v.com/json/jsonindex.php/?url="
-        },
-        {
-            "name": "解析14",
             "type": 1,
             "url": "https://www.nxflv.com/?url=",
             "header": {
@@ -813,8 +796,8 @@
         "renrenmi",
         "xmm",
         "xigua",
-        "m1905 ",
-        "funshion ",
+        "m1905",
+        "funshion",
         "优酷",
         "芒果",
         "腾讯",
