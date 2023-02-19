@@ -78,7 +78,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://altk.ayszz.repl.co/token.txt"
+            "ext": "./libs/tk.txt"
         },
         {
             "key": "YiSo",
