@@ -78,7 +78,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "./libs/tk.txt"
+            "ext": "https://akin-tk.run.goorm.site/token.txt"
         },
         {
             "key": "YiSo",
