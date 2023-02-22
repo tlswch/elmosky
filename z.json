@@ -78,7 +78,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "http://akin-tk.run.goorm.site/token.txt"
+            "ext": "./libs/tk.txt"
         },
         {
             "key": "YiSo",
@@ -89,7 +89,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://akin-tk.run.goorm.site/token.txt"
+            "ext": "./libs/tk.txt"
         },
         {
             "key": "csp_kuaikan",
@@ -466,7 +466,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://akin-tk.run.goorm.site/token.txt$$$elmosky$$$es0820"
+            "ext": "./libs/tk.txt$$$elmosky$$$es0820"
         },
         {
             "key": "PanSou",
@@ -477,7 +477,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://akin-tk.run.goorm.site/token.txt"
+            "ext": "./libs/tk.txt"
         },
         {
             "key": "UpYun",
@@ -488,7 +488,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://akin-tk.run.goorm.site/token.txt"
+            "ext": "./libs/tk.txt"
         },
         {
             "key": "push_agent",
@@ -498,7 +498,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://akin-tk.run.goorm.site/token.txt"
+            "ext": "./libs/tk.txt"
         },
         {
             "key": "csp_XYQH外剧",
