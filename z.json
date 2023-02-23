@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/230222.jar;md5;519ec53b81c1ee070bf75ddb293ab900",
+    "spider": "./jar/230224.jar;md5;d58398a4c77607947d9a6168409b44a2",
     "wallpaper": "https://api.abzo.xyz/es/img.php",
     "sites": [
         {
@@ -351,7 +351,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.ysgc.fun"
+            "ext": "https://www.ysgc.vip"
         },
         {
             "key": "csp_SP360",
@@ -519,16 +519,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQ/野马.json"
-        },
-        {
-            "key": "csp_XYQH極客",
-            "name": "️🌸極客┃XH",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQ/極客.json"
         },
         {
             "key": "csp_xBPQ_爱看",
