@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/230224.jar;md5;d58398a4c77607947d9a6168409b44a2",
+    "spider": "./jar/230226.jar;md5;eb433f3b00e991e6ba6509cffc99672c",
     "wallpaper": "https://api.abzo.xyz/es/img.php",
     "sites": [
         {
@@ -82,7 +82,7 @@
         },
         {
             "key": "YiSo",
-            "name": "😹易搜┃搜4K",
+            "name": "😹易搜┃4K",
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
@@ -160,16 +160,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.fantuanhd.com"
-        },
-        {
-            "key": "Tian",
-            "name": "🗽天天┃SP",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "bdc1c75081e5e477189a463baa47e392"
         },
         {
             "key": "csp_Vofl",
@@ -277,17 +267,17 @@
         },
         {
             "key": "csp_Lib",
-            "name": "🌟Lib┃SP",
+            "name": "🌟Libvio┃SP",
             "type": 3,
             "api": "csp_Libvio",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://libvio.me"
+            "ext": "https://tv.libvio.cc"
         },
         {
             "key": "csp_xp_libv",
-            "name": "🍲LIB┃XP",
+            "name": "🍲Libvio┃XP",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
@@ -459,7 +449,7 @@
         },
         {
             "key": "Zhaozy",
-            "name": "🐺找资源┃搜4K",
+            "name": "🐺找资源┃4K",
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
@@ -470,7 +460,7 @@
         },
         {
             "key": "PanSou",
-            "name": "🦊盘搜┃搜4K",
+            "name": "🦊盘搜┃4K",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -481,7 +471,7 @@
         },
         {
             "key": "UpYun",
-            "name": "😻Up搜┃搜4K",
+            "name": "😻Up搜┃4K",
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
@@ -521,14 +511,14 @@
             "ext": "./XYQ/野马.json"
         },
         {
-            "key": "csp_xBPQ_爱看",
+            "key": "csp_XBPQ_爱看",
             "name": "🌸爱看┃XB",
             "type": 3,
-            "api": "csp_xBPQ",
+            "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./xbpq/爱看.json"
+            "ext": "./xBPQ/爱看.json"
         },
         {
             "key": "csp_If101",
