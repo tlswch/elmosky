@@ -23,7 +23,7 @@
         },
         {
             "key": "py_libvio",
-            "name": "🍲LIB┃PY",
+            "name": "🍲Libvio┃PY",
             "type": 3,
             "api": "py_libvio",
             "searchable": 1,
@@ -273,7 +273,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://tv.libvio.cc"
+            "ext": "https://www.libvio.me"
         },
         {
             "key": "csp_xp_libv",
